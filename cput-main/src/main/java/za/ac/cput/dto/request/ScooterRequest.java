@@ -6,6 +6,7 @@ import za.ac.cput.enums.ScooterStatus;
 public class ScooterRequest {
 
     private Model model;
+    
     private int year;
     private int rentalPerDay;
     

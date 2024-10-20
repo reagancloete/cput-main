@@ -6,6 +6,7 @@ import org.springframework.security.crypto.bcrypt.BCrypt;
 public class ServiceUtil {
     public static <T> T copyProperties(Object source, T target) {
         if (source == null || target == null) {
+            
             throw new IllegalArgumentException("Source and target must not be null");
             
         }
