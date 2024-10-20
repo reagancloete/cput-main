@@ -3,6 +3,7 @@ package za.ac.cput.service;
 import java.util.List;
 
 public interface BaseCrudService<E, K> {
+    
 
     List<E> getAll();
 
