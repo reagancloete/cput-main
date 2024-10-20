@@ -4,6 +4,7 @@ import org.springframework.web.multipart.MultipartFile;
 import za.ac.cput.dto.request.ScooterRequest;
 import za.ac.cput.domain.Scooter;
 
+
 import java.util.List;
 
 public interface ScooterService extends BaseCrudService<Scooter, Long>{
