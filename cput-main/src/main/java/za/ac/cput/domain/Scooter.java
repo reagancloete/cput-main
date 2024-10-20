@@ -1,5 +1,5 @@
 package za.ac.cput.domain;
-
+//
 import io.hypersistence.utils.hibernate.type.json.JsonType;
 import jakarta.persistence.*;
 import org.hibernate.annotations.Type;

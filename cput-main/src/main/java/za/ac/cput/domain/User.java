@@ -1,5 +1,5 @@
 package za.ac.cput.domain;
-
+//
 import jakarta.persistence.*;
 import za.ac.cput.enums.UserRole;
 
