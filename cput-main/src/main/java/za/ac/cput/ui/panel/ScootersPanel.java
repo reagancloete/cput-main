@@ -1,5 +1,5 @@
 package za.ac.cput.ui.panel;
-
+//
 import za.ac.cput.dto.request.ScooterRequest;
 import za.ac.cput.domain.Scooter;
 import za.ac.cput.enums.Model;
