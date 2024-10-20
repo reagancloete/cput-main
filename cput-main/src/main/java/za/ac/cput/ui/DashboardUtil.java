@@ -174,6 +174,7 @@ public class DashboardUtil {
         searchPanel.setBackground(BACKGROUND_COLOR);
         searchPanel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
 
+        
         JTextField searchField = new JTextField();
         searchField.setFont(new Font("Arial", Font.PLAIN, 16));
         searchField.setPreferredSize(new Dimension(100, 30)); // Fixed width of 100
