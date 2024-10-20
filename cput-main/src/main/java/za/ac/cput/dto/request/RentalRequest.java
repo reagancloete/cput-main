@@ -9,6 +9,7 @@ public class RentalRequest {
 
     private Long customerId;
     private Long scooterId;
+    
     private LocalDate startDate;
     private int noOfDates;
 
@@ -16,6 +17,7 @@ public class RentalRequest {
         return customerId;
     }
 
+    
     public void setCustomerId(Long customerId) {
         this.customerId = customerId;
     }
