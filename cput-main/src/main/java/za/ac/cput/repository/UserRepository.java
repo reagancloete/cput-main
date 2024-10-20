@@ -1,6 +1,7 @@
 package za.ac.cput.repository;
 
 import org.springframework.stereotype.Repository;
+
 import za.ac.cput.domain.User;
 import za.ac.cput.enums.UserRole;
 
