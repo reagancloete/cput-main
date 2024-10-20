@@ -1,5 +1,7 @@
 package za.ac.cput.repository;
-
+/*
+author :Luyolo Skoma 221368272
+ */
 import org.springframework.stereotype.Repository;
 import za.ac.cput.domain.RentalDetail;
 

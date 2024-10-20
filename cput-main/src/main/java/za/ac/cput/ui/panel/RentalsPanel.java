@@ -1,5 +1,7 @@
 package za.ac.cput.ui.panel;
-
+/*
+author :Luyolo Skoma 221368272
+ */
 
 import za.ac.cput.domain.RentalDetail;
 import za.ac.cput.enums.RentalStatus;

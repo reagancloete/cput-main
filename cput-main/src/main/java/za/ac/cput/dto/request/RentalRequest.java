@@ -1,6 +1,8 @@
 package za.ac.cput.dto.request;
 
-
+/*
+author :Luyolo Skoma 221368272
+ */
 import java.time.LocalDate;
 
 public class RentalRequest {

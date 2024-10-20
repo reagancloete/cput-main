@@ -1,5 +1,7 @@
 package za.ac.cput.service.impl;
-
+/*
+author :Luyolo Skoma 221368272
+ */
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 import za.ac.cput.dto.request.RentalRequest;
