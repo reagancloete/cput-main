@@ -6,6 +6,7 @@ author :Luyolo Skoma 221368272
 import java.time.LocalDate;
 
 public class RentalRequest {
+    
 
     private Long customerId;
     private Long scooterId;
