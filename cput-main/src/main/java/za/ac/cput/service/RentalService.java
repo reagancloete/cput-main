@@ -1,6 +1,8 @@
 package za.ac.cput.service;
 //fixed
-
+/*
+author :Luyolo Skoma 221368272
+ */
 import za.ac.cput.dto.request.RentalRequest;
 import za.ac.cput.domain.RentalDetail;
 
