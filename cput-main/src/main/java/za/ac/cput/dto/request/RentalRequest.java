@@ -17,6 +17,7 @@ public class RentalRequest {
         return customerId;
     }
 
+
     
     public void setCustomerId(Long customerId) {
         this.customerId = customerId;
