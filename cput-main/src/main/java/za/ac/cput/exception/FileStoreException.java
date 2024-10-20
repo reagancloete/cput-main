@@ -8,6 +8,7 @@ import lombok.EqualsAndHashCode;
 @Data
 public class FileStoreException extends RuntimeException {
     private final String code = "FILE_STORE_500";
+
     
     private final String message = "{messages.exception.FileStoreException}";
 }
